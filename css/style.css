@@ -1,0 +1,146 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.Montserrat{
+   font-family: 'Montserrat', sans-serif;
+   color: #252B42;
+   margin-left: 28px;
+   text-decoration: none;
+   transition: 0.5s;
+}
+
+.img{
+   margin-left: 195px;
+   margin-top: 24px;
+}
+
+.ul{
+   margin-left: 826px;
+   margin-top: -20px;
+}
+
+.images{
+   width: 1400px;
+   margin-top: 80px;
+}
+
+.h1{
+   color: #252B42;
+   margin-top: -500px;
+   margin-left: 200px;
+   font-size: 50px;
+}
+
+.h4{
+   color: #737373;
+   margin-left: 205px;
+   margin-top: 25px;
+}
+
+.btn{
+   height: 48px;
+   width: 185px;
+   left: 0px;
+   top: 0px;
+   border-radius: 37px;
+   padding: 10px 36px 10px 36px;
+   background-color:  #FFA62B;;
+   border: none;
+   color: #FFFFFF;
+   margin-left: 197px;
+   margin-top: 30px;
+}
+
+.butt{
+   height: 48px;
+   width: 165px;
+   border-radius: 37px;  
+   background-color: #FFFFFF;
+   color: #00A0C1;  
+   border-color: #00A0C1;
+   margin-left: 35px;
+   margin-top: -50px;
+}
+
+.body{
+   height: 4000px;
+}
+
+.container{
+   height: 190px;
+   background-color: white;
+   width: 300px;
+   margin-left: 200px;
+   position: absolute;
+   top: 660
+}
+
+.card{
+   margin-left: 40px;
+   margin-top: 20px;
+}
+
+.text-list{
+   color: #252B42;   
+   margin-left: 40px;
+   margin-top: 10px;
+}
+
+.v{
+   margin-top: 5px;
+   margin-left: 35px;
+   color: #737373;  
+}
+
+.card-item{
+   position: relative;
+   height: 190px;
+   width: 300px;
+   background-color: rgb(255, 255, 255);
+   margin-left: 535px;
+   margin-top: 167px;
+}
+
+.img2{
+   margin-left: 40px;
+   margin-top: 17px;
+}
+
+.card-text{
+   margin-left: 42px;
+   margin-top: 10px;
+}
+
+.into-used{
+   margin-left: 40px;
+   color: #737373;
+}
+
+.into-title{
+   position: relative;
+   height: 190px;
+   width: 300px;
+   background-color: #00A0C1;
+   margin-left: 855px;
+   margin-top: -190px;
+}
+
+.img3{
+   margin-left: 40px;
+   margin-top: 17px;
+}
+
+.w{
+   margin-left: 42px;
+   margin-top: 10px;
+   color: #FFFFFF;
+}
+
+.d{
+   margin-left: 40px;
+   color: #FFFFFF;
+}
+

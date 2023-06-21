@@ -1,0 +1,121 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.into-about{
+   margin-left: 600px;
+   margin-top: 80px;
+   font-size: 50px;
+}
+
+.list-about{
+   margin-left: 500px;
+   color: #737373;
+}
+
+.about-title{
+   position: relative;
+   height: 203px;
+   width: 230px;
+   background-color: #FFFFFF;
+   margin-left: 256px;
+   margin-top: 50px;
+   
+}
+
+.card-tite{
+   margin-left: 91px;
+   margin-top: 30px;
+}
+
+.h2-about{
+   font-size: 40px;
+   margin-left: 88px;
+}
+
+.about-h5{
+   font-size: 16px;    
+   margin-left: 60px;
+   margin-top: 10px;    
+   color: #737373;     
+}
+
+.about-card{
+   position: relative;
+   height: 203px;
+   width: 230px;
+   background-color: #FFFFFF;
+   margin-left: 535px;
+   margin-top: -203px;
+}
+
+.about-img{
+   margin-left: 91px;
+   margin-top: 30px;
+}
+
+.credit-about{
+   font-size: 40px;
+   margin-left: 88px;
+   margin-top: 15px;
+}
+
+.list{
+   font-size: 16px;
+   margin-left: 40px;
+   margin-top: 10px;
+   color: #737373;
+}
+
+.item{
+   height: 203px;
+   width: 230px;
+   background-color: #FFFFFF;
+   margin-left: 830px;
+   margin-top: -204px;
+}
+
+.al{
+   margin-left: 97px;
+   margin-top: 30px;
+}
+
+.hp{
+   font-size: 40px;
+   margin-left: 82px;
+   margin-top: -0px;
+}
+
+.cass{
+   font-size: 16px;
+   margin-left: 50px;
+   margin-top: 5px;
+   color: #737373;
+}
+
+.las{
+   height: 203px;
+   width: 230px;
+   background-color: #FFFFFF;
+   margin-left: 1130px;
+   margin-top: -204px;
+}
+
+.svg{
+   margin-left: 97px;
+   margin-top: 30px;
+}
+
+.fot{
+   margin-left: 82px;
+   margin-top: 10px;
+   font-size: 40px;
+}
+
+.lik{
+   font-size: 16px;
+   margin-left: 60px;
+   color: #737373;
+}

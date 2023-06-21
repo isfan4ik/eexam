@@ -1,0 +1,141 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.into{
+   font-size: 40px;
+   margin-left: 638px;
+   margin-top: 125px;
+}
+
+.into-advice{
+   margin-left: 540px;
+   margin-top: 10px;
+   color: #737373;
+}
+
+.into-use{
+   margin-left: 490px;
+   color: #737373;
+}
+
+.card-advice{
+   height: 321px;
+   width: 230px;
+   background-color:#FFFA;
+   margin-left: 195px;
+   margin-top: 45px;
+}
+
+.inc{
+   font-size: 16px;
+   color: #252B42;
+   margin-left: 29px;
+   position: absolute;
+   top: 1580;
+}
+
+.low{
+   position: absolute;
+   top: 1635;
+   left: 225;
+   color: #737373;
+}
+
+.advice{
+   width: 230px;
+   height: 138px;
+   position: absolute;
+   top: 1727;
+}
+
+.wlp{
+   height: 321px;
+   width: 230px;
+   background-color: #FFFA;
+   margin-left: 500px;
+   margin-top: -320px;
+}
+
+.flex{
+   font-size: 16px;
+   color: #252B42;
+   margin-left: 29px;
+   position: absolute;
+   top: 1580;
+}
+
+.mes{
+    position: absolute;
+   top: 1635;
+   left: 520;
+   color: #737373;
+}
+
+.img5{
+   width: 230px;
+   height: 138px;
+   position: absolute;
+   top: 1727;
+}
+
+.vle{
+   height: 321px;
+   width: 230px;
+   background-color: #FFFA;
+   margin-left: 800px;
+   margin-top: -320px;
+}
+
+.sel{
+   font-size: 16px; 
+   color: #252B42;
+   margin-left: 29px;
+   position: absolute;
+   top: 1580;
+}
+
+.fex{
+   position: absolute;
+   top: 1630;
+   left: 830;
+   color: #737373;
+}
+
+.he{
+   width: 230px;
+   height: 138px;
+   position: absolute;
+   top: 1730
+}
+
+.fes{
+   height: 321px;
+   width: 230px;
+   background-color:#FFFA;
+   margin-left: 1100px;
+   margin-top: -315px;
+}
+
+.lab{
+   font-size: 16px;
+   margin-left: 29px;
+   position: absolute;
+   top: 1580;
+}
+
+.als{
+   position: absolute;
+   top: 1630;
+   left: 1125;
+   color: #737373;
+}
+
+.lax{
+   position: absolute;
+   width: 230px;
+   height: 138px;
+   top: 1735;
+}
